@@ -1,0 +1,2 @@
+ofxGui
+ofxOpenNI_NC
